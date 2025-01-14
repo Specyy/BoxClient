@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BoxClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BoxClient_jar</output-path>
+    <root id="archive" name="BoxClient.jar">
+      <element id="module-output" name="BoxClient" />
+    </root>
+  </artifact>
+</component>
